@@ -1,0 +1,24 @@
+.contenedor a{  /*Selector combinado*/
+    text-decoration: none;  /*elimina el subrayado de las ligas*/
+    color:green;    /*le da color al texto*/
+    font-size: 20px;    /*asigna un tamaño al texto*/
+    font-weight: bold;  /*pone el texto en negritas*/
+}
+h2{ /*selector universal*/
+    color:gold;     /*le da color al texto*/
+}
+p{      /*selector universal*/
+    font-size: 18px;    /*asigna un tamaño al texto*/
+    color:indigo;   /*le da color al texto*/
+}
+h3{     /*selector universal*/
+    color:crimson;  /*le da color al texto*/
+    text-align: center; /*Alínea el texto hacia el centro*/
+}
+.contenedor2 p{     /*Selector combinado*/
+    color:chocolate;    /*le da color al texto*/
+}
+.contenedor2 a{     /*Selector combinado*/
+    color:orange;   /*le da color al texto*/
+    text-decoration: none;      /*elimina el subrayado de las ligas*/
+}
